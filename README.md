@@ -7,3 +7,7 @@ I love volleyball because it’s fast, fun, and keeps me on my toes. The **teamw
 1. Pawel
 2. Ajith
 3. Sanju
+### Places to play
+- Beach
+- Court
+- Grass
