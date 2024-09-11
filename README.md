@@ -13,3 +13,14 @@ I love volleyball because it’s fast, fun, and keeps me on my toes. The **teamw
 - Grass
 
 [Check out my favorite dish!](MyDish.md)
+
+---
+
+## Favorite Quotes
+> "I told my wife she was drawing her eyebrows too high. She looked surprised."
+>
+> *Tim Vine*
+
+> "Why don't skeletons fight each other? They don't have the guts."
+>
+> *Bravis*
