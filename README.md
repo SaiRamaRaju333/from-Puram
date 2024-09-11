@@ -24,3 +24,25 @@ I love volleyball because it’s fast, fun, and keeps me on my toes. The **teamw
 > "Why don't skeletons fight each other? They don't have the guts."
 >
 > *Bravis*
+
+---
+
+### How to find Intersection using Dart source code
+Finds elements that exist in two lists
+'''
+main() {
+  final lists = [
+    [1, 2, 3, 55, 7, 99, 21],
+    [1, 4, 7, 65, 99, 20, 21],
+    [0, 2, 6, 7, 21, 99, 26]
+  ];
+
+  final commonElements =
+      lists.fold(
+        lists.first.toSet(), 
+        (a, b) => a.intersection(b.toSet()));
+
+  print(commonElements);
+}
+'''
+[Source](https://stackoverflow.com/questions/59431806/extract-common-elements-from-lists-in-dart)
