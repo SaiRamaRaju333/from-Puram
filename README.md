@@ -29,7 +29,7 @@ I love volleyball because it’s fast, fun, and keeps me on my toes. The **teamw
 
 ### How to find Intersection using Dart source code
 Finds elements that exist in two lists
-'''
+```
 main() {
   final lists = [
     [1, 2, 3, 55, 7, 99, 21],
@@ -44,5 +44,5 @@ main() {
 
   print(commonElements);
 }
-'''
+```
 [Source](https://stackoverflow.com/questions/59431806/extract-common-elements-from-lists-in-dart)
